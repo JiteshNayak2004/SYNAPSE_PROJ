@@ -12,3 +12,5 @@ Additionally, We also used facial recognition algorithms that were trained to re
 As a crucial part of the project, We also considered ethical and privacy concerns when using computer vision and ML to detect real-time violence. We ensured that the algorithm was not biased against certain groups of people and that individuals were not being surveilled without their consent.
 
 Overall, this project highlighted the potential of using computer vision and ML to detect real-time violence, but it is important to note that these technologies are not perfect and need to be developed and implemented in an ethical and responsible manner.
+
+Accept the contribution request
