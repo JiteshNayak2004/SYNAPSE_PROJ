@@ -13,4 +13,4 @@ As a crucial part of the project, We also considered ethical and privacy concern
 
 Overall, this project highlighted the potential of using computer vision and ML to detect real-time violence, but it is important to note that these technologies are not perfect and need to be developed and implemented in an ethical and responsible manner.
 
-Accept the contribution request
+We plan to expand upon this by training the model on sports footage so that we can train an LLM to provide automated commentary.
